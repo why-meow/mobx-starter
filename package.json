@@ -1,7 +1,7 @@
 {
-  "name": "react-starter",
+  "name": "mobx-starter",
   "version": "1.0.0",
-  "description": "react-starter",
+  "description": "Simple mobx-starter project",
   "main": "index.js",
   "author": "why-meow",
   "license": "MIT",
